@@ -32,7 +32,6 @@ Todos os certificados estão disponíveis para visualização e download.
 
 - Todos os certificados são **oficiais e válidos**.
 - Os arquivos em PDF podem ser baixados ou abertos diretamente pelo navegador.
-- O repositório pode ser atualizado à medida que novas certificações forem conquistadas.
 
 ---
 
