@@ -9,17 +9,17 @@ Todos os certificados estão disponíveis para visualização e download.
 ## 📂 Certificados
 
 ### 💻 Programação para Internet
-- 📄 [`Certificado de Programação para Internet`](./Programação%20Para%20Internet.pdf)
+![Certificado de Programação para Internet](./certificados-img/Programação_para_internet.png)
 
 ---
 
 ### 📊 Power BI
-- 📄 [`Certificado de Power BI`](./Validação%20Certificado%20PowerBi.pdf)
+![Certificado de Power BI](./certificados-img/Power_Bi.png)
 
 ---
 
-### 🐍 Python
-- 📄 [`Certificado de Python`](./Validação%20Certificado%20Python.pdf)
+### 🐍 Python – Jornada Python
+![Certificado de Python](./certificados-img/Jornada_Python.png)
 
 ---
 
@@ -29,19 +29,19 @@ Todos os certificados estão disponíveis para visualização e download.
 ---
 
 ### ☁️ Desenvolvimento Rápido de Aplicações em Python para Cloud, IoT e Big Data
-- 📄 [`Certificado de Desenvolvimento em Python para Cloud, IoT e Big Data`](./Desenvolvimento%20Rapido%20de%20Aplicacoes%20em%20Python%20para%20Cloud%20IoT%20e%20BigData.pdf)
+![Certificado de Desenvolvimento em Python para Cloud, IoT e Big Data](./certificados-img/desenvolvimento_rapido_python.png)
 
 ---
 
 ### 🌐 Evento – FLISoL
-- 🖼️ ![Certificado de Participação – FLISoL](./flisol.jpg)
+![Certificado de Participação – FLISoL](./certificados-img/flisol.jpg)
 
 ---
 
 ## ✨ Observações
 
 - Todos os certificados são **oficiais, válidos e verificáveis**.
-- Os arquivos em PDF podem ser baixados ou visualizados diretamente no navegador.
+- Os arquivos também estão disponíveis em PDF neste repositório (opcionalmente, você pode adicioná-los junto com as imagens).
 
 ---
 
