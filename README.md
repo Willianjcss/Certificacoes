@@ -24,7 +24,7 @@ Todos os certificados estão disponíveis para visualização e download.
 ---
 
 ### 📈 Análise de Dados para Tomada de Decisões
-- 📄 [`Certificado de Análise de Dados`](certificados-img/Analise_de_dados.png)
+- 📄 [`Certificado de Análise de Dados`](./certificados-img/Analise_de_dados.png)
 
 ---
 
