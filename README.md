@@ -29,7 +29,7 @@ Todos os certificados estão disponíveis para visualização e download.
 ---
 
 ### ☁️ Desenvolvimento Rápido de Aplicações em Python para Cloud, IoT e Big Data
-![Certificado de Desenvolvimento em Python para Cloud, IoT e Big Data](./certificados-img/desenvolvimento_rapido_python.png)
+![Certificado de Desenvolvimento em Python para Cloud, IoT e Big Data](./certificados-img/Desenvolvimento_rapido_python.png)
 
 ---
 
