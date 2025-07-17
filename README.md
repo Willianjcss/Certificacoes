@@ -1,6 +1,6 @@
 # 📜 Certificações Profissionais
 
-Este repositório contém minhas certificações em diversas áreas da tecnologia, como **Programação para Internet**, **Python**, **Power BI** e participação em eventos como o **FLISoL**.
+Este repositório reúne minhas certificações em diversas áreas da tecnologia, como **Programação para Internet**, **Python**, **Power BI**, **Análise de Dados para Tomada de Decisões**, **Desenvolvimento Rápido de Aplicações em Python para Cloud, IoT e Big Data**, além da participação em eventos como o **FLISoL**.
 
 Todos os certificados estão disponíveis para visualização e download.
 
@@ -8,33 +8,43 @@ Todos os certificados estão disponíveis para visualização e download.
 
 ## 📂 Certificados
 
-### 💻 Programação Para Internet
-- 📄 [`Programação Para Internet`](./Programação%20Para%20Internet.pdf)
+### 💻 Programação para Internet
+- 📄 [`Certificado de Programação para Internet`](./Programação%20Para%20Internet.pdf)
 
 ---
 
 ### 📊 Power BI
-- 📄 [`Validação Certificado PowerBi`](./Validação%20Certificado%20PowerBi.pdf)
+- 📄 [`Certificado de Power BI`](./Validação%20Certificado%20PowerBi.pdf)
 
 ---
 
 ### 🐍 Python
-- 📄 [`Validação Certificado Python`](./Validação%20Certificado%20Python.pdf)
+- 📄 [`Certificado de Python`](./Validação%20Certificado%20Python.pdf)
+
+---
+
+### 📈 Análise de Dados para Tomada de Decisões
+- 📄 [`Certificado de Análise de Dados`](./Analise%20de%20Dados%20para%20Tomada%20de%20Decisoes.pdf)
+
+---
+
+### ☁️ Desenvolvimento Rápido de Aplicações em Python para Cloud, IoT e Big Data
+- 📄 [`Certificado de Desenvolvimento em Python para Cloud, IoT e Big Data`](./Desenvolvimento%20Rapido%20de%20Aplicacoes%20em%20Python%20para%20Cloud%20IoT%20e%20BigData.pdf)
 
 ---
 
 ### 🌐 Evento – FLISoL
-- 🖼️ ![FLISoL](./flisol.jpg)
+- 🖼️ ![Certificado de Participação – FLISoL](./flisol.jpg)
 
 ---
 
 ## ✨ Observações
 
-- Todos os certificados são **oficiais e válidos**.
-- Os arquivos em PDF podem ser baixados ou abertos diretamente pelo navegador.
+- Todos os certificados são **oficiais, válidos e verificáveis**.
+- Os arquivos em PDF podem ser baixados ou visualizados diretamente no navegador.
 
 ---
 
 ## 📫 Contato
 
-Se desejar validar algum certificado ou saber mais sobre minha formação, sinta-se à vontade para entrar em contato!
+Caso deseje validar algum certificado ou saber mais sobre minha formação, estou à disposição!
