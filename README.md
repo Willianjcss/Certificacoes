@@ -9,7 +9,7 @@ Todos os certificados estão disponíveis para visualização e download.
 ## 📂 Certificados
 
 ### 💻 Programação para Internet
-![Certificado de Programação para Internet](./certificados-img/Programação_para_internet.png)
+![Certificado de Programação para Internet](./certificados-img/Programacao_para_internet.png)
 
 ---
 
