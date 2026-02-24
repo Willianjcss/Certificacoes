@@ -36,17 +36,17 @@ Todos os certificados estão disponíveis para visualização e download.
 ### 🌐 Evento – FLISoL
 ![Certificado de Participação – FLISoL](./certificados-img/flisol.jpg)
 
-### Programação de Sistemas de informação
+### 💻 Programação de Sistemas de Informação
 ![Certificado de Participação – FLISoL](./certificados-img/Certificado.png)
 ---
 
-### Futuro em movimento
+### 🚀 Futuro em Movimento
 ![Certificado de Participação – FLISoL](./certificados-img/Futuro_em_movimento.png)
 
-### Gerencia Organização e Recuperação das Informações
+### 🗄️ Gerência, Organização e Recuperação das Informações
 ![Certificado de Participação – FLISoL](./certificados-img/Gerencia_organização.png)
 
-### Imersão Agentes de IA
+### 🤖 Imersão Agentes de IA
 ![Certificado de Participação – FLISoL](./certificados-img/Agentes_IA.png)
 
 ## ✨ Observações
